@@ -3,3 +3,4 @@ Java öğrenme sürecimdeki günlük alıştırmalar. Kaynak: MOOC.fi Java Progr
 
 - day01: variables, data types, user input with Scanner
 - day02: Part 1 – reading input exercises
+- day03: Part 1 – variables, calculating with numbers
