@@ -7,3 +7,4 @@ Java öğrenme sürecimdeki günlük alıştırmalar. Kaynak: MOOC.fi Java Progr
 - day04: Part 1 conditionals (Part 1 completed), Part 2 first section
 - day05: Part 2 – repeating functionality
 - day06: Part 2 – more loops
+- day07: Part 2 – methods (in progress)
