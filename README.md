@@ -12,3 +12,4 @@ Java öğrenme sürecimdeki günlük alıştırmalar. Kaynak: MOOC.fi Java Progr
 - day09: Part 3 – arrays
 - day10: Part 3 – using strings (Part 3 completed)
 - day11: Part 4 – intro to OOP (in progress)
+- practice: own Account class (deposit, withdraw with balance check)
